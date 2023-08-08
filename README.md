@@ -35,7 +35,7 @@ If you're interested in running this website locally or modifying it for your ow
 
 2. Navigate to the project directory:
    ```sh
-   cd your-website-repo
+   cd CodeClauseInternship_PortfolioWebsite
 
 3. Open the index.html file in your web browser to explore the website locally.
  
