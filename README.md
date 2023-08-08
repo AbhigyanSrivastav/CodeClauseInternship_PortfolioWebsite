@@ -15,11 +15,15 @@ Feel free to explore each section to learn more about me and my work.
 
 ## Preview
 
-To view the live version of this website, visit [https://www.yourwebsiteurl.com](https://www.yourwebsiteurl.com).
+To view the live version of this website, visit [https://abhigyansrivastav.netlify.app.com](abhigyansrivastav.netlify.app).
 
 ## Hosting
 
 I have hosted this website on [Netlify](https://www.netlify.com), which provides an easy way to deploy and manage web projects. The continuous deployment feature ensures that any updates to the code are automatically reflected on the live site.
+
+###### Netlify Status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/40ba678f-86bf-41c4-889d-4a4e81dcc209/deploy-status)](https://app.netlify.com/sites/abhigyansrivastav/deploys)
 
 ## Usage
 
@@ -27,7 +31,7 @@ If you're interested in running this website locally or modifying it for your ow
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/your-website-repo.git
+   git clone https://github.com/AbhigyanSrivastav/CodeClauseInternship_PortfolioWebsite.git
 
 2. Navigate to the project directory:
    ```sh
